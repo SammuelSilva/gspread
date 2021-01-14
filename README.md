@@ -34,3 +34,9 @@ The credentials.json has to be in the same folder that the worksheets.py
 ```sh
 python worksheets.py
 ```
+
+## Google Worksheet
+
+[Click Here to access the worksheet](https://docs.google.com/spreadsheets/d/1WHOxj7oOg5S3rZqes1rV3OH-61B32KSn7jvMAHtEac8/edit?usp=sharing)
+
+
